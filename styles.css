@@ -16,3 +16,27 @@ Background-color: rgb(95, 52, 160)
     border: 5px solid;
     border-color: rgb(0, 255, 217);
 }
+.container{
+        width: 100%;
+        overflow: hidden;
+    }  
+.box{
+    float: left;
+    width: 33.33%;
+    padding: 15px;
+    color: white;
+    box-sizing: border-box;
+    }   
+
+    .LeftAlign{
+    background-color: red;
+    border: 3px solid green;
+    }
+    .CenterAlign{
+        background-color: green;
+        border: 3px solid blue;
+    }
+    .RightAlign{
+        background-color: blue;
+        border: 3px solid red;
+    }
