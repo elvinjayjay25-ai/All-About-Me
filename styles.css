@@ -1,11 +1,11 @@
 body{
     background-color: rgb(195, 0, 255)
-}
+    }
 
 button{
 Background-color: rgb(95, 52, 160)
 
-}
+    }
 
 .button1{
     border: 5px solid;
@@ -17,10 +17,12 @@ Background-color: rgb(95, 52, 160)
     border: 5px solid;
     border-color: rgb(0, 255, 217);
 }
+
 .container{
         width: 100%;
         overflow: hidden;
-    }  
+    }
+      
 .box{
     float: left;
     width: 33.33%;
@@ -29,23 +31,19 @@ Background-color: rgb(95, 52, 160)
     box-sizing: border-box;
     }   
 
-    .LeftAlign{
+.LeftAlign{
     background-color: #ff379b;
     border: 3px solid rgb(159, 255, 50);
     }
-    .CenterAlign{
+.CenterAlign{
         background-color: rgb(7, 157, 80);
         border: 3px solid rgb(89, 34, 151);
     }
-    .RightAlign{
+.RightAlign{
         background-color: rgb(59, 12, 92);
         border: 3px solid rgb(95, 6, 58);
     }
-    img{
-        height: 200px;
-        width: 200px;
-    }
-    img{
+img{
         height: 200px;
         width: 200px;
     }
